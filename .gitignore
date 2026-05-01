@@ -1,0 +1,8 @@
+node_modules/
+nostudy.db
+serviceAccountKey.json
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
